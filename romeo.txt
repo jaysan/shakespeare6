@@ -9,6 +9,8 @@ JULIET: Ay, me.
 
 ROMEO: Wherefore art thou?
 
-JULIET: Oh I drank poison and I'm dead now.
+TYBALT: A plague on both your houses.
+
+JULIET: Oh I drank poison (or did I stab myself? I forget) and I'm dead now.
 
 THE END
