@@ -8,3 +8,5 @@ POLONIUS: I'm behind a curtain lol.
 HALET: Alas, poor Yorick.
 
 THE END
+
+Epilogue: Everyone dies.
